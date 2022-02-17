@@ -1,0 +1,2 @@
+2022-02-13 16:30     this is a log message
+2022-02-13 16:30     this is another log message
